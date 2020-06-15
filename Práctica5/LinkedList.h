@@ -1,5 +1,5 @@
-#ifndef LINDEKLIST_H
-#define LINDEKLIST_H
+#ifndef LINKEDLIST_H
+#define LINKEDLIST_H
 
 class LinkedList{
 private:
