@@ -1,0 +1,4 @@
+-----------------------------------------------------
+Prof. en la parte del registro, al presionar "Ok",
+me sale un Aviso. Luego tengo que presionar "Cancelar"
+para ver que si se guardaron los datos (verdadero). 
